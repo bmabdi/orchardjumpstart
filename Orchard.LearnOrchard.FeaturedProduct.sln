@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchard.LearnOrchard.FeaturedProduct", "Orchard.LearnOrchard.FeaturedProduct.csproj", "{FEDA1764-5D4A-4CD2-A7B7-6FFE22BC6F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDA1764-5D4A-4CD2-A7B7-6FFE22BC6F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDA1764-5D4A-4CD2-A7B7-6FFE22BC6F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDA1764-5D4A-4CD2-A7B7-6FFE22BC6F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDA1764-5D4A-4CD2-A7B7-6FFE22BC6F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0C66C29-696A-4953-A473-BDB08E1177F9}
+	EndGlobalSection
+EndGlobal
